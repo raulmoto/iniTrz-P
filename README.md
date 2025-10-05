@@ -55,10 +55,16 @@ El objetivo es **generar ingresos flexibles** con una interfaz clara, visual y f
       <img src="https://github.com/raulmoto/iniTrz-P/blob/main/bony2.jpeg" width="180"><br><br>
       <b>Bonifacio Cristóbal Obiang Asue</b><br>
       <sub>Consultor de Producto y Analista de Mercado (UX Research & UAT)<br>
-      Ing. en Topografía — Univ. de Valencia</sub>
+      Ing. en Topografía — Univ. Politécnica de Valencia</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      📧 [Cristobalobiang@gmail.com](mailto:Cristobalobiang@gmail.com) 
     </td>
   </tr>
 </table>
+ 
 
 Bony ha sido asesor del proyecto, aportando **ideas estratégicas**, **revisión de versiones**, **análisis del público objetivo**, y **validación de pruebas de aceptación y funcionalidad** (User Acceptance Testing).  
 Su participación fue esencial para garantizar que la aplicación se ajustara a las necesidades reales del público objetivo y cumpliera criterios de usabilidad y calidad.
