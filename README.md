@@ -57,6 +57,9 @@ El objetivo es **generar ingresos flexibles** con una interfaz clara, visual y f
       <sub>Consultor de Producto y Analista de Mercado (UX Research & UAT)<br>
       Ing. en Topografía — Univ. Politécnica de Valencia</sub>
     </td>
+    <td align="center">
+      📧 [Cristobalobiang@gmail.com](mailto:Cristobalobiang@gmail.com) 
+    </td>
   </tr>
   <tr>
     <td align="center">
