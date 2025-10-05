@@ -59,23 +59,6 @@ El objetivo es **generar ingresos flexibles** con una interfaz clara, visual y f
 Bony ha sido asesor del proyecto, aportando **ideas estratégicas**, **revisión de versiones**, **análisis del público objetivo**, y **validación de pruebas de aceptación y funcionalidad** (User Acceptance Testing).  
 Su participación fue esencial para garantizar que la aplicación se ajustara a las necesidades reales del público objetivo y cumpliera criterios de usabilidad y calidad.
 
----
-
-## 🎨 Diseño y marca
-Paleta base utilizada en la interfaz para transmitir **calma**, **cercanía** y **claridad**:
-
-| Elemento | Color | Descripción |
-|-----------|--------|-------------|
-| Principal | `#B9AEDC` | Lavanda grisácea – calma, suavidad, sofisticación |
-| Secundario | `#A47551` | Marrón cálido – natural, piel, cercanía |
-| Fondo | `#FAF9F6` | Blanco hueso – limpieza y neutralidad |
-| Bordes / Inputs | `#CFCFCF` | Gris suave |
-| Acentos | `#EACDD0` | Rosa en polvo – microinteracciones |
-| Éxito | `#BFD8B8` | Confirmaciones |
-| Error | `#E19CA3` | Alertas |
-| Info | `#A8C0E8` | Mensajes informativos |
-
----
 
 ## 🚀 Enlace a la app
 <p align="left">
