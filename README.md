@@ -1,9 +1,20 @@
 # Inira Trenzas  
 Gestión de agenda para personas que realizan trenzas de forma intermitente (por ejemplo, estudiantes). Publica tus disponibilidades y recibe reservas fácilmente.
 
-<p align="left">
-  <a href="https://play.google.com/store/apps/details?id=com.inira.trenzas&pcampaignid=web_share">
-    <img src="https://github.com/raulmoto/iniTrz-P/blob/main/google-play.png" alt="Disponible en Google Play" height="60">
+---
+
+## 🚀 Descarga la app
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.inira.trenzas&pcampaignid=web_share" target="_blank">
+    <table align="center" style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; background-color: #fafafa;">
+      <tr>
+        <td align="center">
+          <b>📲 Disponible en Google Play</b><br>
+          <img src="https://github.com/raulmoto/iniTrz-P/blob/main/google-play.png" alt="Disponible en Google Play" height="60"><br>
+          <sub>Haz clic para visitar la app</sub>
+        </td>
+      </tr>
+    </table>
   </a>
 </p>
 
@@ -14,20 +25,22 @@ Gestión de agenda para personas que realizan trenzas de forma intermitente (por
 ---
 
 ## 📱 ¿Qué es Inira Trenzas?
-**Inira Trenzas** es una app móvil que facilita a trenzadoras no profesionales (por ejemplo, estudiantes) la **gestión de su agenda**: publicar disponibilidades por día y hora, mostrar su perfil de trabajo y recibir solicitudes de cita.  
-El objetivo es **generar ingresos flexibles** con una interfaz clara, visual y fácil de usar.
+**Inira Trenzas** es una aplicación móvil diseñada para ayudar a trenzadoras no profesionales (como estudiantes) a **gestionar sus horarios y citas**.  
+Permite publicar disponibilidades, mostrar el perfil profesional, y recibir reservas de manera organizada y accesible.
+
+El propósito es ofrecer una **fuente de ingresos flexible**, con una interfaz moderna, limpia y sencilla.
 
 ### Funcionalidades principales del MVP
-- Iniciar sesión como **cliente** o **profesional**.  
-- Ver el **perfil de la trenzadora** y su **galería** de trabajos.  
-- Buscar **trenzadoras cerca de ti** y **pedir cita**.  
-- **Confirmación y gestión** de citas (cliente y profesional).  
-- **Publicar** y **eliminar** disponibilidades.  
-- **Subir fotos** del trabajo realizado.  
-- **Cuenta Premium** con ventajas adicionales.
+- Iniciar sesión como **cliente** o **trenzadora profesional**.  
+- Visualizar el **perfil y galería** de la trenzadora.  
+- Buscar **trenzadoras cercanas** y **solicitar cita**.  
+- **Confirmar y gestionar** citas en tiempo real.  
+- **Publicar, editar o eliminar** disponibilidades.  
+- **Subir fotos** de trabajos realizados.  
+- Acceso al **Plan Premium** con ventajas adicionales.
 
 > 🔸 **Plan Premium vs Gratuito**  
-> El plan Premium permite **publicar más disponibilidades por semana**, aumentando la visibilidad y la capacidad de captar más clientes.
+> El plan Premium permite **publicar más disponibilidades por semana**, incrementando la visibilidad y las oportunidades de reserva.
 
 ---
 
@@ -43,26 +56,32 @@ El objetivo es **generar ingresos flexibles** con una interfaz clara, visual y f
 
 ## 👥 Stakeholders
 
-### Bony
+### Bony — Consultor de Producto y Analista de Experiencia (UX Research & UAT)
 <table>
   <tr>
     <td align="center">
       <img src="https://github.com/raulmoto/iniTrz-P/blob/main/bony2.jpeg" width="180"><br><br>
       <b>Bony</b><br>
-      <sub>Consultor de Producto y Analista de Mercado (UX Research & UAT)<br>
-      Ing. en Topografía — Univ. de Valencia</sub>
+      <sub>Ingeniero en Topografía — Universidad de Valencia</sub>
     </td>
   </tr>
 </table>
 
-Bony ha sido asesor del proyecto, aportando **ideas estratégicas**, **revisión de versiones**, **análisis del público objetivo**, y **validación de pruebas de aceptación y funcionalidad** (User Acceptance Testing).  
-Su participación fue esencial para garantizar que la aplicación se ajustara a las necesidades reales del público objetivo y cumpliera criterios de usabilidad y calidad.
+Como **Consultor de Producto y Analista de Experiencia**, Bony desempeñó un rol clave en:
+- **Evaluación de usabilidad y pruebas de aceptación de usuario (UAT)**.  
+- **Análisis del público objetivo** y validación de propuesta de valor.  
+- **Supervisión de versiones** durante la fase de desarrollo y pruebas.  
+- **Asesoramiento estratégico** en decisiones funcionales y experiencia de usuario.  
 
+Su enfoque analítico y técnico permitió asegurar la coherencia entre el producto, su público y los objetivos del proyecto.
 
-## 🚀 Enlace a la app
-<p align="left">
-  <a href="https://play.google.com/store/apps/details?id=com.inira.trenzas&pcampaignid=web_share">
-    <img src="https://github.com/raulmoto/iniTrz-P/blob/main/google-play.png" alt="Disponible en Google Play" height="60">
+---
+
+## 🔗 Enlace directo a la app
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.inira.trenzas&pcampaignid=web_share" target="_blank">
+    <img src="https://github.com/raulmoto/iniTrz-P/blob/main/google-play.png" alt="Disponible en Google Play" height="70"><br>
+    <b>👉 Clic aquí para probar Inira Trenzas en Google Play</b>
   </a>
 </p>
 
@@ -71,4 +90,3 @@ Su participación fue esencial para garantizar que la aplicación se ajustara a 
 ## ℹ️ Nota
 Este repositorio es **informativo**: contiene únicamente imágenes, descripción del producto y acceso a la aplicación en Google Play.  
 No incluye el código fuente de la app.
-
