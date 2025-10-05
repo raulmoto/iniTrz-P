@@ -52,21 +52,18 @@ El objetivo es **generar ingresos flexibles** con una interfaz clara, visual y f
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/raulmoto/iniTrz-P/blob/main/bony2.jpeg" width="180"><br><br>
+      <img src="https://github.com/raulmoto/iniTrz-P/blob/main/bony2.jpeg" width="180" alt="Foto de Bonifacio Cristóbal Obiang Asue"><br><br>
       <b>Bonifacio Cristóbal Obiang Asue</b><br>
       <sub>Consultor de Producto y Analista de Mercado (UX Research & UAT)<br>
       Ing. en Topografía — Univ. Politécnica de Valencia</sub>
     </td>
     <td align="center">
-      📧 [Cristobalobiang@gmail.com](mailto:Cristobalobiang@gmail.com) 
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      📧 [Cristobalobiang@gmail.com](mailto:Cristobalobiang@gmail.com) 
+      <span aria-hidden="true">📧</span>
+      <a href="mailto:Cristobalobiang@gmail.com">Cristobalobiang@gmail.com</a>
     </td>
   </tr>
 </table>
+
  
 
 Bony ha sido asesor del proyecto, aportando **ideas estratégicas**, **revisión de versiones**, **análisis del público objetivo**, y **validación de pruebas de aceptación y funcionalidad** (User Acceptance Testing).  
