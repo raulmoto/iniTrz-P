@@ -1,5 +1,10 @@
 # Inira Trenzas  
+
 Gestión de agenda para personas que realizan trenzas de forma intermitente (por ejemplo, estudiantes). Publica tus disponibilidades y recibe reservas fácilmente.
+
+<p align="center">
+  <img src="https://github.com/raulmoto/iniTrz-P/blob/main/post.png?raw=1" alt="Inira Trenzas presentación" width="90%" />
+</p>
 
 <p align="left">
   <a href="https://play.google.com/store/apps/details?id=com.inira.trenzas&pcampaignid=web_share">
@@ -58,6 +63,7 @@ El objetivo es **generar ingresos flexibles** con una interfaz clara, visual y f
 Bony ha sido asesor del proyecto, aportando **ideas estratégicas**, **revisión de versiones**, **análisis del público objetivo**, y **validación de pruebas de aceptación y funcionalidad** (User Acceptance Testing).  
 Su participación fue esencial para garantizar que la aplicación se ajustara a las necesidades reales del público objetivo y cumpliera criterios de usabilidad y calidad.
 
+---
 
 ## 🚀 Enlace a la app
 <p align="left">
@@ -71,3 +77,4 @@ Su participación fue esencial para garantizar que la aplicación se ajustara a 
 ## ℹ️ Nota
 Este repositorio es **informativo**: contiene únicamente imágenes, descripción del producto y acceso a la aplicación en Google Play.  
 No incluye el código fuente de la app.
+
