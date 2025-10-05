@@ -34,10 +34,10 @@ El objetivo es **generar ingresos flexibles** con una interfaz clara, visual y f
 
 ## 🖼️ Capturas de la app
 <p align="center">
-  <img src="https://github.com/raulmoto/iniTrz-P/blob/main/foto1.jpg" width="24%">
-  <img src="https://github.com/raulmoto/iniTrz-P/blob/main/foto2.jpg" width="24%">
-  <img src="https://github.com/raulmoto/iniTrz-P/blob/main/foto3.jpg" width="24%">
-  <img src="https://github.com/raulmoto/iniTrz-P/blob/main/foto4.jpg" width="24%">
+  <img src="https://github.com/raulmoto/iniTrz-P/blob/main/1.png" width="24%">
+  <img src="https://github.com/raulmoto/iniTrz-P/blob/main/2.png" width="24%">
+  <img src="https://github.com/raulmoto/iniTrz-P/blob/main/3.png" width="24%">
+  <img src="https://github.com/raulmoto/iniTrz-P/blob/main/4.png" width="24%">
 </p>
 
 ---
