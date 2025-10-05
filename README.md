@@ -1,4 +1,3 @@
-# iniTrz-P
 # Inira Trenzas  
 Gestión de agenda para personas que realizan trenzas de forma intermitente (por ejemplo, estudiantes). Publica tus disponibilidades y recibe reservas fácilmente.
 
