@@ -66,10 +66,7 @@ El objetivo es **generar ingresos flexibles** con una interfaz clara, visual y f
   </tr>
 </table>
 
-
- 
-
-Bony ha sido asesor del proyecto, aportando **ideas estratégicas**, **revisión de versiones**, **análisis del público objetivo**, y **validación de pruebas de aceptación y funcionalidad** (User Acceptance Testing).  
+Bonifacio Cristóbal, ha sido asesor del proyecto, aportando **ideas estratégicas**, **revisión de versiones**, **análisis del público objetivo**, y **validación de pruebas de aceptación y funcionalidad** (User Acceptance Testing).  
 Su participación fue esencial para garantizar que la aplicación se ajustara a las necesidades reales del público objetivo y cumpliera criterios de usabilidad y calidad.
 
 ---
