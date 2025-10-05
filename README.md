@@ -81,7 +81,7 @@ Su enfoque analítico y técnico permitió asegurar la coherencia entre el produ
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.inira.trenzas&pcampaignid=web_share" target="_blank">
     <img src="https://github.com/raulmoto/iniTrz-P/blob/main/google-play.png" alt="Disponible en Google Play" height="70"><br>
-    <b>👉 Clic aquí para probar Inira Trenzas en Google Play</b>
+    <b>👉 Clic aquí para probar Inira Trenzas en Play Store</b>
   </a>
 </p>
 
