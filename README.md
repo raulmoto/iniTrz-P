@@ -48,12 +48,12 @@ El objetivo es **generar ingresos flexibles** con una interfaz clara, visual y f
 
 ## 👥 Stakeholders
 
-### Bony
+### Bonifacio Cristóbal Obiang Asue
 <table>
   <tr>
     <td align="center">
       <img src="https://github.com/raulmoto/iniTrz-P/blob/main/bony2.jpeg" width="180"><br><br>
-      <b>Bony</b><br>
+      <b>Bonifacio Cristóbal Obiang Asue</b><br>
       <sub>Consultor de Producto y Analista de Mercado (UX Research & UAT)<br>
       Ing. en Topografía — Univ. de Valencia</sub>
     </td>
