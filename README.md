@@ -3,48 +3,48 @@ Gestión de agenda para personas que realizan trenzas de forma intermitente (por
 
 ---
 
-## 🚀 Descarga la app
+## 🚀 Download the App
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.inira.trenzas&pcampaignid=web_share" target="_blank">
     <table align="center" style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; background-color: #fafafa;">
       <tr>
         <td align="center">
-          <b>📲 Disponible en Google Play</b><br>
-          <img src="https://github.com/raulmoto/iniTrz-P/blob/main/google-play.png" alt="Disponible en Google Play" height="60"><br>
-          <sub>Haz clic para visitar la app</sub>
+          <b>📲 Available on Google Play</b><br>
+          <img src="https://github.com/raulmoto/iniTrz-P/blob/main/google-play.png" alt="Get it on Google Play" height="60"><br>
+          <sub>Click to visit the app</sub>
         </td>
       </tr>
     </table>
   </a>
 </p>
 
-**Estado:** Beta funcional  
-**Plataforma:** Android (Google Play)  
-**Modelo:** Gratuito y Premium (más cupo de publicaciones semanales en Premium)
+**Status:** Functional Beta  
+**Platform:** Android (Google Play)  
+**Model:** Free and Premium (the Premium plan allows more weekly publications)
 
 ---
 
-## 📱 ¿Qué es Inira Trenzas?
-**Inira Trenzas** es una aplicación móvil diseñada para ayudar a trenzadoras no profesionales (como estudiantes) a **gestionar sus horarios y citas**.  
-Permite publicar disponibilidades, mostrar el perfil profesional, y recibir reservas de manera organizada y accesible.
+## 📱 What is Inira Trenzas?
+**Inira Trenzas** is a mobile app that helps non-professional hair braiders (such as students) manage their **appointments and availability**.  
+It allows users to publish time slots, display their profile and gallery, and receive booking requests easily.
 
-El propósito es ofrecer una **fuente de ingresos flexible**, con una interfaz moderna, limpia y sencilla.
+The goal is to offer a **flexible income source** through a modern, clean, and intuitive interface.
 
-### Funcionalidades principales del MVP
-- Iniciar sesión como **cliente** o **trenzadora profesional**.  
-- Visualizar el **perfil y galería** de la trenzadora.  
-- Buscar **trenzadoras cercanas** y **solicitar cita**.  
-- **Confirmar y gestionar** citas en tiempo real.  
-- **Publicar, editar o eliminar** disponibilidades.  
-- **Subir fotos** de trabajos realizados.  
-- Acceso al **Plan Premium** con ventajas adicionales.
+### Main MVP Features
+- Sign in as a **Client** or **Braider**.  
+- View the **braider’s profile and photo gallery**.  
+- Search for **braiders near you** and **book an appointment**.  
+- **Confirm and manage** bookings (client and professional).  
+- **Publish, edit or delete** available time slots.  
+- **Upload photos** of previous work.  
+- **Premium Account** with extra advantages.
 
-> 🔸 **Plan Premium vs Gratuito**  
-> El plan Premium permite **publicar más disponibilidades por semana**, incrementando la visibilidad y las oportunidades de reserva.
+> 🔸 **Premium vs Free Plan**  
+> The Premium plan allows users to **publish more availabilities per week**, increasing visibility and appointment potential.
 
 ---
 
-## 🖼️ Capturas de la app
+## 🖼️ App Screenshots
 <p align="center">
   <img src="https://github.com/raulmoto/iniTrz-P/blob/main/1.png" width="24%">
   <img src="https://github.com/raulmoto/iniTrz-P/blob/main/2.png" width="24%">
@@ -56,37 +56,39 @@ El propósito es ofrecer una **fuente de ingresos flexible**, con una interfaz m
 
 ## 👥 Stakeholders
 
-### Bony — Consultor de Producto y Analista de Experiencia (UX Research & UAT)
+### Bony — Product Consultant & Experience Analyst (UX Research & User Acceptance Testing)
 <table>
   <tr>
     <td align="center">
       <img src="https://github.com/raulmoto/iniTrz-P/blob/main/bony2.jpeg" width="180"><br><br>
       <b>Bony</b><br>
-      <sub>Ingeniero en Topografía — Universidad de Valencia</sub>
+      <sub>Surveying Engineer — University of Valencia</sub>
     </td>
   </tr>
 </table>
 
-Como **Consultor de Producto y Analista de Experiencia**, Bony desempeñó un rol clave en:
-- **Evaluación de usabilidad y pruebas de aceptación de usuario (UAT)**.  
-- **Análisis del público objetivo** y validación de propuesta de valor.  
-- **Supervisión de versiones** durante la fase de desarrollo y pruebas.  
-- **Asesoramiento estratégico** en decisiones funcionales y experiencia de usuario.  
+As **Product Consultant & Experience Analyst**, Bony played a crucial role in the project by leading:
 
-Su enfoque analítico y técnico permitió asegurar la coherencia entre el producto, su público y los objetivos del proyecto.
+- **UX Research** to understand user needs and audience behavior.  
+- **User Acceptance Testing (UAT)** to validate functionality and usability.  
+- **Version reviews and iteration feedback** throughout development.  
+- **Strategic guidance** in product decisions, interface flow, and user impact analysis.  
+
+His analytical and professional insight ensured that *Inira Trenzas* aligned with its target audience and maintained high quality standards.
 
 ---
 
-## 🔗 Enlace directo a la app
+## 🔗 Direct Link to the App
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.inira.trenzas&pcampaignid=web_share" target="_blank">
-    <img src="https://github.com/raulmoto/iniTrz-P/blob/main/google-play.png" alt="Disponible en Google Play" height="70"><br>
-    <b>👉 Clic aquí para probar Inira Trenzas en Play Store</b>
+    <img src="https://github.com/raulmoto/iniTrz-P/blob/main/google-play.png" alt="Get it on Google Play" height="70"><br>
+    <b>👉 Click here to try Inira Trenzas on Google Play</b>
   </a>
 </p>
 
 ---
 
-## ℹ️ Nota
-Este repositorio es **informativo**: contiene únicamente imágenes, descripción del producto y acceso a la aplicación en Google Play.  
-No incluye el código fuente de la app.
+## ℹ️ Note
+This repository is **informational only**: it contains images, product description, and the link to the app on Google Play.  
+The source code of the app is **not included**.
+
